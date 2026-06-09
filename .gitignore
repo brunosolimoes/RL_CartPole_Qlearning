@@ -1,0 +1,16 @@
+# Virtual environments
+**/.venv/
+**/.venv311/
+
+# Python
+**/__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos treinados
+*.pth
+
+# VS Code
+.vscode/
